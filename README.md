@@ -4,11 +4,7 @@
 
 🌱 I'm constantly exploring new technologies and diving deep into different aspects of programming and other fields of technology. My goal is to continue learning more about technology and analyzing data and eventually help others along the way.
 
-🚀 In my free time, you can find me sketching, painting & writing, and occasionally sharing my insights on https://medium.com/@awalker4832.
-
-📫 Feel free to reach out to me on https://www.linkedin.com/in/ashley-r-walker/ to discuss data analytics or collaborate on exciting projects.
-
-💬 Fun fact: I'm a fan of Korean Dramas.
+🚀 In my free time, you can find me sketching, painting & writing.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=awalk5448)
 
