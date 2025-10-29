@@ -1,10 +1,10 @@
 ## Ashley Walker
 
-👋 Hi there! I'm Ashley, an aspiring data analyst with a passion for writing compelling stories.
+👋 Hi there! I'm Ashley, a creative thinker and problem-solver passionate about bringing ideas to life with code.
 
-🌱 I'm constantly exploring new technologies and diving deep into different aspects of programming and other fields of technology. My goal is to continue learning more about technology and analyzing data and eventually help others along the way.
+🌱 I'm currently diving deep into web development as a student at the **SheCodes bootcamp**. My goal is to build beautiful, intuitive, and accessible digital experiences. I love finding new ways to combine the technical challenge of coding with my passion for creative expression.
 
-🚀 In my free time, you can find me sketching, painting & writing.
+🚀 When I'm not coding, you can find me writing fiction and poetry on my WordPress blog (canvasofreflections.com), painting, or sketching.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=awalk5448)
 
