@@ -6,6 +6,18 @@
 
 🚀 When I'm not coding, you can find me writing fiction and poetry on my WordPress blog (canvasofreflections.com), painting, or sketching.
 
+---
+
+## 💻 My Projects
+
+### [Baking: A Childhood's Treasure 🧁](https://github.com/awalk5448/my-first-landing-page)
+* **[View Live Demo](https://velvety-haupia-9e7f3d.netlify.app/)**
+
+A single-page website built with HTML, CSS, and JavaScript that uses interactive prompts to reveal a hidden recipe. This was my first project from the SheCodes bootcamp!
+
+
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=awalk5448)
 
 
