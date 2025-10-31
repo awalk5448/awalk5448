@@ -15,7 +15,10 @@
 
 A single-page website built with HTML, CSS, and JavaScript that uses interactive prompts to reveal a hidden recipe. This was my first project from the SheCodes bootcamp!
 
+### [ART: Creative Expression 🎨](https://github.com/awalk5448/interactive-art-page)
+* **[View Live Demo](https://benevolent-unicorn-ac532a.netlify.app)**
 
+An interactive page built with HTML, CSS, and JavaScript. Features a "dark mode" toggle and a quote carousel built by managing a JavaScript array.
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=awalk5448)
