@@ -4,7 +4,7 @@
 
 🌱 I'm currently diving deep into web development as a student at the **SheCodes bootcamp**. My goal is to build beautiful, intuitive, and accessible digital experiences. I love finding new ways to combine the technical challenge of coding with my passion for creative expression.
 
-🚀 When I'm not coding, you can find me writing fiction and poetry on my WordPress blog (canvasofreflections.com), painting, or sketching.
+🚀 When I'm not coding, you can find me writing fiction and poetry on [my WordPress blog](https://canvasofreflections.com), painting, or sketching.
 
 ---
 
