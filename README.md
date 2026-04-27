@@ -21,6 +21,24 @@ A single-page website built with HTML, CSS, and JavaScript that uses interactive
 An interactive page built with HTML, CSS, and JavaScript. Features a "dark mode" toggle and a quote carousel built by managing a JavaScript array.
 
 
+
+
+
+---
+
+## 🏛️ Independent Projects
+
+### [FOIA Request Generator](https://github.com/awalk5448/foia-request-generator)
+- [View Live Demo](https://awalk5448.github.io/foia-request-generator/)
+
+A web tool that helps anyone draft a public records request letter for all 50 U.S. states and D.C. Users select a state, fill in request details, and receive a professional letter citing the correct state law, response deadlines, and fee provisions. Features include dark/light mode, form auto-saving, PDF download, print support, and inline state law resources. Built with HTML, CSS, JavaScript, and AI tools (Codex and Claude).
+
+
+
+
+
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=awalk5448)
 
 
