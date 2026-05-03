@@ -34,7 +34,10 @@ An interactive page built with HTML, CSS, and JavaScript. Features a "dark mode"
 A web tool that helps anyone draft a public records request letter for all 50 U.S. states and D.C. Users select a state, fill in request details, and receive a professional letter citing the correct state law, response deadlines, and fee provisions. Features include dark/light mode, form auto-saving, PDF download, print support, and inline state law resources. Built with HTML, CSS, JavaScript, and AI tools (Codex and Claude).
 
 
+### [Thornbound Tales](https://github.com/awalk5448/thornbound-tales)
+- <a href="https://awalk5448.github.io/thornbound-tales/">View Live Demo</a>
 
+An immersive dark fantasy storybook featuring six original characters, each with their own tale, AI-generated portrait, and audio narration. Unique color palettes and design moods for each character page. Built with HTML, CSS, JavaScript, Midjourney, ElevenLabs, Claude, and OpenAI Codex.
 
 
 
